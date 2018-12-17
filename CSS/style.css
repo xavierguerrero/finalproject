@@ -1,0 +1,232 @@
+<style>
+html{ margin:; }
+
+	body{
+		font-family: arial, helvetica, sans-serif;
+		font-size:17px;
+		line-height:1.5;
+	}
+
+	.container {
+		max-width: 960px;
+	    margin: 10px auto 10px auto;
+	    overflow:hidden;
+	    background-color:
+
+	 }
+	 .youtube{
+
+
+
+	 }
+	 figcaption{
+		 font-size: 9px;
+	 }
+
+	 #showcase { max-width: 960px;
+	    margin: 10px auto 10px auto;
+	    padding-top: ; }
+
+	.text{ max-width: 960px;
+	    margin: 10px auto 10px auto;
+	font-family: arial, helvetica;
+	 	line-height: 1.6em ;
+		       text-align: left;
+		       color: #494949;
+	padding: 20px;
+	}
+	h2{ font-family:sans-serif ;
+		font-weight: normal;
+		width: 960px;
+		text-align: left;
+		margin:0px auto;
+		color:#948b44;
+
+
+	}
+	h3{
+		font-family: helvetica;
+		font-size: 15px;
+	}
+
+
+	header{
+
+		position:fixed;
+		width:100%;
+		margin-left: -8px;
+		padding-left: 0;
+		top:0;
+		background-color:#fff;
+		border-bottom: #948b44 3px solid;
+
+	}
+
+
+	 a { color:#948b44;
+	  text-transform: uppercase;
+	  font-size: 15px;
+	  text-decoration: none;
+
+		}
+
+	     ul{ margin:0;
+		           padding:0;
+		           float: right;
+		           margin-top:-55px;
+
+
+		 }
+
+		 li {
+
+		float: left;
+	  display: inline;
+	  padding: 0px 20px 0px 20px;
+	   }
+
+	   .logo{
+	    max-width:100%;
+	   	margin-left: 20px;
+
+
+
+	    }
+	    .imagenes{
+	        max-width:100%;
+	    	border-width: 960px;
+	     margin-top: 25px;
+
+	   	border-top: #948b44 3px solid;
+	   	border-bottom: #948b44 3px solid;}
+
+.ad{
+	max-width:100%;
+	display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+
+margin-top: 25px;}
+
+
+
+	   	.show{
+	   	max-width:100%;
+	   	border-top: #948b44 3px solid;
+	   	margin-top:127px;
+	   	margin-left: -8px;
+
+	   }
+
+
+	   footer{
+	width:100%;
+	height: 50px;
+	margin:auto;
+	margin-left: -8px;
+	padding:10px;
+	text-align: center;
+	background-color: black;
+	color:white;
+
+	font-size: 15px;
+	font-family: arial, helvetica;
+
+	    }
+
+	    .contact{
+
+	    	width: 110%;
+	        background-color:#948b44;
+	    	text-align: center;
+	    	color:white;
+	    	padding:10px;
+	    	padding-bottom:;
+	    	margin: auto;
+	    	margin-left: -8px;
+
+	    	    }
+	    	    .icon{
+
+	    	    	text-align: center;
+	    	    }
+
+	    	    #boxes { margin-top:20px;
+	    	    max-width: 960px;
+	    	    margin: auto;
+	    	}
+
+		#boxes .box{ float:left;
+		text-align:center ;
+
+		padding: 10px;
+		}
+		#boxes .box img{ width: 200px;}
+
+		.wrapper{
+			width:100%;
+		margin:auto;
+		padding-bottom:-20px;
+		overflow:hidden;
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	@media(max-width: 200px) {
+
+		 #boxes .box .text .imagenes .show .logo .nav
+	article#sidebar {
+	float:none;
+	text-align:;
+width:100%; }
+
+
+
+@media screen and (max-width: 800px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+</style>
